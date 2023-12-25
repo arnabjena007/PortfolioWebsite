@@ -1,5 +1,5 @@
 ##Portfolio Website 🔗
-<a herf="https://portfolio-website-blue-zeta.vercel.app/" target="_blank">**Visit Now** 
+<a herf="https://portfolio-website-blue-zeta.vercel.app" target="_blank">**Visit Now** 
 </a>
 
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery
