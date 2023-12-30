@@ -20,8 +20,8 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome, and JSON
 ## 📬 Contact Me
 If you'd like to get in touch, you can find me at:
 
-- [LinkedIn](https://www.linkedin.com/in/jigar-sable/) <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="15">
+- [LinkedIn](https://www.linkedin.com/in/arnabjena/) <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="15">
 
-© 2022 Arnab Jena
+© 2024 Arnab Jena
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
