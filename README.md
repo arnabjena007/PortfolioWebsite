@@ -25,3 +25,6 @@ If you'd like to get in touch, you can find me at:
 © 2024 Arnab Jena
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+
+## Credits
+- [JigarSable](https://github.com/jigar-sable/)
