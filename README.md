@@ -13,10 +13,13 @@ Explore my portfolio website created using HTML5, CSS3, JavaScript, and jQuery.
 ## Extras
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome, and JSON
 
-### 🖼️ Sneak Peek of Main Page
+### 🖼️ Sneak Peek of Page
 ![Main Page Mockup](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Home%20Page%20Mockup.png?raw=true)
-![Screenshot]()
-
+![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%201.png?raw=true)
+![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%202.png?raw=true)
+![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%202.png?raw=true)
+![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%203.png?raw=true)
+![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%204.png?raw=true)
 ## 📬 Contact Me
 If you'd like to get in touch, you can find me at:
 
