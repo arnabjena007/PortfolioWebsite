@@ -1,16 +1,16 @@
-Portfolio Website 🔗
+## Portfolio Website 🔗
 
 Explore my portfolio website created using HTML5, CSS3, JavaScript, and jQuery.
 
 **Visit Now:** [Portfolio Website](https://portfolio-website-blue-zeta.vercel.app) 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com//Portfolio-Website/search?l=css)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Extras
+## Extras
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome, and JSON
 
 ### 🖼️ Sneak Peek of Main Page
