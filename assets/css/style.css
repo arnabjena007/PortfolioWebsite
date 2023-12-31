@@ -108,7 +108,7 @@ header .navbar li {
 }
 header .navbar ul li a {
   font-size: 1.57rem;
-  color: #0e2431;
+  color: #29a9f3;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
@@ -440,8 +440,8 @@ body, h1, h2, h3, h4, h5, h6, p {
   border-radius: 0.5em;
   transition: 0.3s;
   color: #fff;
-  background-color: #3b0044;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background-image: linear-gradient(to right, #0e0052, #220052, #300052, #3c0052, #460052, #4e0056, #57005b, #5f005f, #690069, #730073, #7e007e, #880088);
+  box-shadow: 0px 5px 10px rgba(117, 1, 123, 0.6);
   font-family: "Nunito", sans-serif;
 }
 .resumebtn .btn span {
@@ -455,7 +455,7 @@ body, h1, h2, h3, h4, h5, h6, p {
   transition: 0.3s;
 }
 .resumebtn .btn:hover {
-  background: #9300c4;
+  background: #2b0039;
 }
 .resumebtn .btn:hover i {
   transform: translateX(5px);
@@ -566,6 +566,7 @@ body, h1, h2, h3, h4, h5, h6, p {
 .education .qoute {
   font-size: 1.5rem;
   text-align: center;
+  color: #ffffff;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   margin-top: 0.5rem;
@@ -904,8 +905,8 @@ body, h1, h2, h3, h4, h5, h6, p {
   border-radius: 0.5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background-image: linear-gradient(to right, #0e0052, #220052, #300052, #3c0052, #460052, #4e0056, #57005b, #5f005f, #690069, #730073, #7e007e, #880088);
+  box-shadow: 0px 5px 10px rgba(136, 3, 224, 0.6);
   text-align: center;
 }
 .morebtn .btn span {
@@ -919,7 +920,7 @@ body, h1, h2, h3, h4, h5, h6, p {
   transition: 0.3s;
 }
 .morebtn .btn:hover {
-  background: #1a047e;
+  background: #300239;
 }
 .morebtn .btn:hover i {
   transform: translateX(5px);
@@ -1111,13 +1112,13 @@ form .button-area {
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background-image: linear-gradient(to right, #0e0052, #220052, #300052, #3c0052, #460052, #4e0056, #57005b, #5f005f, #690069, #730073, #7e007e, #880088);
+  box-shadow: 0px 5px 10px rgba(108, 2, 160, 0.6);
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
 }
 .button-area button:hover {
-  background: #421cecf5;
+  background: #4c026cf5;
 }
 .button-area span {
   font-size: 17px;
