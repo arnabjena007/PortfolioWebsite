@@ -20,7 +20,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome, and JSON
 ![Screenshot](https://github.com/arnabjena007/PortfolioWebsite/blob/main/Portfolio%204.png?raw=true)
 
 ## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/arnabjena/) ![LinkedIn Logo]
+- [LinkedIn](https://www.linkedin.com/in/arnabjena/)
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
