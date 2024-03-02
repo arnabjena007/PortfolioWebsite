@@ -132,6 +132,7 @@ header .navbar ul li a:hover {
 @media (max-width: 768px) {
   #menu {
     display: block;
+    color: purple
   }
   header .navbar {
     position: fixed;
@@ -213,7 +214,7 @@ header .navbar ul li a:hover {
 }
 .home .content p {
   font-size: 2.5rem;
-  color: #ffffff39;
+  color: white;
   font-weight: 600;
   padding: 1rem 0;
 }
