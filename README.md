@@ -2,7 +2,7 @@
 
 Explore my portfolio website created using HTML5, CSS3, JavaScript, and jQuery.
 
-[**Visit Now** 🚀](https://portfolio-website-arnabs-projects.vercel.app/)
+[**Visit Now** 🚀](https://portfolio-website-gamma-opal.vercel.app/)
 
 ## 🛠️ Tech Stack
 [![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arnabjena007/Portfolio-Website/search?l=html)&nbsp;
