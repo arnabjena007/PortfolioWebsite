@@ -126,13 +126,13 @@ header .navbar ul li a:hover {
 #menu {
   font-size: 3rem;
   cursor: pointer;
-  color: white;
+  color: rgb(255, 255, 255);
   display: none;
 }
 @media (max-width: 768px) {
   #menu {
     display: block;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   header .navbar {
     position: fixed;
@@ -142,7 +142,7 @@ header .navbar ul li a:hover {
     height: 100%;
     text-align: left;
     align-items: flex-start;
-    background-color: #ffffff;
+    background-color: purple;
   }
   header .navbar ul {
     flex-flow: column;
@@ -154,20 +154,23 @@ header .navbar ul li a:hover {
     margin: 1rem 0;
     border-radius: 0.5rem;
     width: 26rem;
+    color: purple;
   }
   header .navbar ul li a {
     display: block;
     padding: 1rem;
     text-align: left;
-    color: #ffffff;
+    color: white;
     font-size: 2rem;
   }
-  header .navbar ul li a.active,
+  header .navbar ul li a.active{
+    color: white;
+  }
   header .navbar ul li a:hover {
     padding: 1rem;
-    color: #fff;
+    color: white;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
+    color: rgb(255, 255, 255);
   }
   .fa-times {
     transform: rotate(180deg);
@@ -419,7 +422,6 @@ body, h1, h2, h3, h4, h5, h6, p {
   font-family: "Nunito";
   font-weight: 600;
   text-transform: none;
-  color: white;
 }
 .about .row .content .box-container {
   display: flex;
